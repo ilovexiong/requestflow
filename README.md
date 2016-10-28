@@ -11,4 +11,7 @@
 #### Running Acceptance Tests
 
 	$ python test/integration/ba.py http://127.0.0.1:5000
+	
+	
+The demo can be seen here: https://youtu.be/GU8oKaDD2QE
 
